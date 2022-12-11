@@ -1,5 +1,6 @@
 # Django_D5.9
 D5.9. Итоговое задание. Проект News Portal
+Django_D5.9/NewsPaper/NewsPortal/models.py
 
 Список всех команд, запускаемых в Django Shell
 from NewsPortal.models import *
